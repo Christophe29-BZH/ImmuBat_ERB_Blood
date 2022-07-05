@@ -1,0 +1,13 @@
+library,type,soup_cluster,age,individual,sex
+A1,WholeBlood,0,Adult,Adu1,F
+A1,WholeBlood,1,Adult,Adu2,F
+A1,WholeBlood,2,Adult,Adu3,F
+A2,WholeBlood,0,Juvenile,Juv1,M
+A2,WholeBlood,1,Juvenile,Juv2,M
+A2,WholeBlood,2,Juvenile,Juv3,F
+A5,WholeBlood,0,Adult,Adu4,F
+A5,WholeBlood,1,Subadult,Sub1,M
+A5,WholeBlood,2,Subadult,Sub2,M
+A6,PBMC,0,Adult,Adu4,F
+A6,PBMC,1,Subadult,Sub2,M
+A6,PBMC,2,Subadult,Sub1,M
