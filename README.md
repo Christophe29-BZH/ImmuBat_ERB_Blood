@@ -1,6 +1,8 @@
 # ImmuBat_ERB_Blood
 This repository contains scripts for the single cell analysis of the Egyptian rousette bat (ERB) blood leukocytes and generating figures used in the Cell Report paper.
+
 Repository in construction [LAST UPDATE: 29/08/2022]
+
 Currently, the repository can be downloaded and the different scripts (6 in total) can be executed sequentially to repeat the single-cell and scCODA analysis.
 Scripts to reproduce the plots used in the paper are not available yet.
 
@@ -31,7 +33,7 @@ cd ImmuBat_ERB_Blood/analysis
 
 #### 2- Install R and python dependencies (see section below)
 #### 3- Run sequentially the scripts in the **analysis** directory 
-Note: Make sure to set the **analysis** directory as the working directory when running the scripts.
+> **Note:** Make sure to set the **analysis** directory as the working directory when running the scripts.
 
 ## Dependencies
 List of R and python packages necessary to run the scripts.
