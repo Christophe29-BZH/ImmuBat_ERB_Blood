@@ -1,0 +1,13 @@
+Sample,Age,Type,Viability [%],Recovery rate [%]
+J1,Juvenile,WholeBlood,91.5,95
+J2,Juvenile,WholeBlood,95.4,96
+J3,Juvenile,WholeBlood,92.6,96
+A1,Adult,WholeBlood,87.5,98
+A2,Adult,WholeBlood,87,102
+A3,Adult,WholeBlood,86.6,93
+WB1,Subadult,WholeBlood,95.5,92
+WB2,Subadult,WholeBlood,94.2,103
+WB3,Adult,WholeBlood,92.4,93
+PB1,Subadult,PBMC,96.7,102
+PB2,Subadult,PBMC,94.8,96
+PB3,Adult,PBMC,93.6,106
