@@ -1,10 +1,8 @@
-# ImmuBat_ERB_Blood
+# Blood Leukocytes from the Egyptian Rousette Bat
 This repository contains scripts for the single cell analysis of the Egyptian rousette bat (ERB) blood leukocytes and generating figures used in the Cell Report paper.
 
-Repository in construction [LAST UPDATE: 29/08/2022]
 
-Currently, the repository can be downloaded and the different scripts (6 in total) can be executed sequentially to repeat the single-cell and scCODA analysis.
-Scripts to reproduce the plots used in the paper are not available yet.
+Blood samples were obtained from a total of 9 bats across different ages. The analysis aims at identifying the different cell types / states present in ERB peripheral blood and their abundancy variations upon ageing.
 
 ## Data Accessibility
 Sequencing data and count matrices are stored on [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE183925).
