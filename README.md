@@ -31,9 +31,13 @@ git clone https://github.com/Christophe29-BZH/ImmuBat_ERB_Blood.git
 cd ImmuBat_ERB_Blood/analysis
 ```
 
-#### 2- Install R and python dependencies (see section below)
+
+#### 2- Install R and python dependencies 
+See Dependencies section.
+
+
 #### 3- Run sequentially the scripts in the **analysis** directory 
-> **Note:** Make sure to set the **analysis** directory as the working directory when running the scripts.
+Make sure to set the **analysis** directory as the working directory when running the scripts.
 
 ## Dependencies
 List of R and python packages necessary to run the scripts.
