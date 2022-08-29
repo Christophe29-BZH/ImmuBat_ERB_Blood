@@ -1,5 +1,5 @@
 # Blood Leukocytes from the Egyptian Rousette Bat
-This repository contains scripts for the single cell analysis of the Egyptian rousette bat (ERB) blood leukocytes and generating figures used in the Cell Report paper.
+This repository contains scripts for the single cell analysis of the Egyptian Rousette Bat (ERB) blood leukocytes and generating figures used in the Cell Report paper.
 
 
 Blood samples were obtained from a total of 9 bats across different ages. The analysis aims at identifying the different cell types / states present in ERB peripheral blood and their abundancy variations upon ageing.
