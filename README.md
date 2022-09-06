@@ -1,5 +1,11 @@
 # Blood Leukocytes from the Egyptian Rousette Bat
-This repository contains scripts for the single cell analysis of the Egyptian Rousette Bat (ERB) blood leukocytes and generating figures used in the Cell Report paper.
+This repository contains scripts for the single cell analysis of the Egyptian Rousette Bat (ERB) blood leukocytes and generating figures used in the Cell Report paper:
+
+[**Landscape and age dynamics of immune cells in the Egyptian rousette bat (2022)**](https://www.sciencedirect.com/science/article/pii/S2211124722011299?via%3Dihub)
+
+[Virginia Friedrichs, Christophe Toussaint, Alexander Schäfer, Melanie Rissmann, Oliver Dietrich, Thomas C. Mettenleiter, Gang Pei, Anne Balkema-Buschmann, Antoine-Emmanuel Saliba, Anca Dorhoi](https://www.sciencedirect.com/science/article/pii/S2211124722011299?via%3Dihub)
+
+[*https://doi.org/10.1016/j.celrep.2022.111305*](https://www.sciencedirect.com/science/article/pii/S2211124722011299?via%3Dihub)
 
 
 Blood samples were obtained from a total of 9 bats across different ages. The analysis aims at identifying the different cell types / states present in ERB peripheral blood and their abundancy variations upon ageing.
